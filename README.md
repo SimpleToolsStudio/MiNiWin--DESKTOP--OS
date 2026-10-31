@@ -85,7 +85,7 @@ qemu-system-x86_64 -drive format=raw,file=bin/os.img
 
 MIT License
 
-Copyright (c) 2026 SimpleTools studio
+Copyright (c) 2026 SimpleToolsStudio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
